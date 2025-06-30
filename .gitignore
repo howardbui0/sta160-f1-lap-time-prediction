@@ -1,0 +1,10 @@
+# Ignore raw data files
+data/
+*.csv
+
+# Ignore Python and Jupyter cache files
+__pycache__/
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
